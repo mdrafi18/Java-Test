@@ -32,6 +32,7 @@ public class factorial {
 		System.out.println("factorial of 5 is : "+recursiveFactorial(5,result));
 		System.out.println("factorial of 4 is : "+recursiveFactorial(4,result));
 		System.out.println("factorial of 3 is : "+recursiveFactorial(3,result));
+		System.out.println("factorial of 3 is : "+recursiveFactorial(6,result));
 	}
 	
 	

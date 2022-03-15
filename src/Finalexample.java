@@ -17,6 +17,7 @@ public class Finalexample {
 //		name="hello"; 
 		
 		System.out.println(name);
+		System.out.println(name);
 		
 	}
 	
